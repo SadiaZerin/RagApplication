@@ -1,0 +1,8 @@
+google-generativeai==0.5.1
+langchain
+lxml
+qdrant-client
+fastapi
+uvicorn
+vertexai
+python-dotenv
